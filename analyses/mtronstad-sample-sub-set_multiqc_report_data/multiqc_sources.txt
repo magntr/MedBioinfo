@@ -1,0 +1,24 @@
+Module	Section	Sample Name	Source
+Bowtie 2 / HiSAT2	all_sections	mtronstad_bowtie_merged2PhiX	/shared/ifbstor1/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/bowtie/mtronstad_bowtie_merged2PhiX.log
+Bowtie 2 / HiSAT2	all_sections	mtronstad_bowtie_merged2SC2	/shared/ifbstor1/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/bowtie/mtronstad_bowtie_merged2SC2.log
+FastQC	all_sections	ERR6913276_1	/shared/ifbstor1/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/fastqc/ERR6913276_1_fastqc.zip
+FastQC	all_sections	ERR6913197_1	/shared/ifbstor1/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/fastqc/ERR6913197_1_fastqc.zip
+FastQC	all_sections	ERR6913179_1	/shared/ifbstor1/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/fastqc/ERR6913179_1_fastqc.zip
+FastQC	all_sections	ERR6913181_1	/shared/ifbstor1/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/fastqc/ERR6913181_1_fastqc.zip
+FastQC	all_sections	ERR6913275_2	/shared/ifbstor1/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/fastqc/ERR6913275_2_fastqc.zip
+FastQC	all_sections	ERR6913182_2	/shared/ifbstor1/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/fastqc/ERR6913182_2_fastqc.zip
+FastQC	all_sections	ERR6913278_2	/shared/ifbstor1/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/fastqc/ERR6913278_2_fastqc.zip
+FastQC	all_sections	ERR6913180_2	/shared/ifbstor1/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/fastqc/ERR6913180_2_fastqc.zip
+FastQC	all_sections	ERR6913101_1	/shared/ifbstor1/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/fastqc/ERR6913101_1_fastqc.zip
+FastQC	all_sections	ERR6913179_2	/shared/ifbstor1/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/fastqc/ERR6913179_2_fastqc.zip
+FastQC	all_sections	ERR6913181_2	/shared/ifbstor1/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/fastqc/ERR6913181_2_fastqc.zip
+FastQC	all_sections	ERR6913277_2	/shared/ifbstor1/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/fastqc/ERR6913277_2_fastqc.zip
+FastQC	all_sections	ERR6913197_2	/shared/ifbstor1/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/fastqc/ERR6913197_2_fastqc.zip
+FastQC	all_sections	ERR6913180_1	/shared/ifbstor1/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/fastqc/ERR6913180_1_fastqc.zip
+FastQC	all_sections	ERR6913275_1	/shared/ifbstor1/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/fastqc/ERR6913275_1_fastqc.zip
+FastQC	all_sections	ERR6913182_1	/shared/ifbstor1/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/fastqc/ERR6913182_1_fastqc.zip
+FastQC	all_sections	ERR6913101_2	/shared/ifbstor1/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/fastqc/ERR6913101_2_fastqc.zip
+FastQC	all_sections	ERR6913278_1	/shared/ifbstor1/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/fastqc/ERR6913278_1_fastqc.zip
+FastQC	all_sections	ERR6913276_2	/shared/ifbstor1/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/fastqc/ERR6913276_2_fastqc.zip
+FastQC	all_sections	ERR6913277_1	/shared/ifbstor1/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/fastqc/ERR6913277_1_fastqc.zip
+FLASh	all_sections	mtronstad_flash2	/shared/ifbstor1/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/mtronstad_flash2.log

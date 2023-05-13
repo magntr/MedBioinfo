@@ -1,0 +1,3 @@
+Sample	total_reads	unpaired_total	unpaired_aligned_none	unpaired_aligned_one	unpaired_aligned_multi	overall_alignment_rate
+mtronstad_bowtie_merged2PhiX	7326629	7326629	7326629	0	0	0.0
+mtronstad_bowtie_merged2SC2	7326629	7326629	7318620	8009	0	0.11
