@@ -1,0 +1,5 @@
+Loading database information... done.
+1588974 sequences (379.97 Mbp) processed in 20.439s (4664.6 Kseq/m, 1115.45 Mbp/m).
+  915811 sequences classified (57.64%)
+  673163 sequences unclassified (42.36%)
+>> Checking report file: /shared/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/kraken2/ERR6913276_fastq_full_kraken2_report

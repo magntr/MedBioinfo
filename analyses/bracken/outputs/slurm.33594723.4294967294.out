@@ -1,0 +1,20 @@
+START: Tue May 30 17:15:42 CEST 2023
+ >> Checking for Valid Options...
+ >> Running Bracken 
+      >> python src/est_abundance.py -i /shared/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/kraken2/fastq_one_sample_kraken2_report -o /shared/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/bracken/fastq_one_sample_bracken_out -k /shared/projects/2314_medbioinfo/kraken2/arch_bact_vir_hum_protoz_fung/database100mers.kmer_distrib -l S -t 10
+PROGRAM START TIME: 05-30-2023 15:15:43
+BRACKEN SUMMARY (Kraken report: /shared/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/kraken2/fastq_one_sample_kraken2_report)
+    >>> Threshold: 10 
+    >>> Number of species in sample: 7477 
+	  >> Number of species with reads > threshold: 3254 
+	  >> Number of species with reads < threshold: 4223 
+    >>> Total reads in sample: 1588974
+	  >> Total reads kept at species level (reads > threshold): 769924
+	  >> Total reads discarded (species reads < threshold): 17428
+	  >> Reads distributed: 896434
+	  >> Reads not distributed (eg. no species above threshold): 19377
+	  >> Unclassified reads: 673163
+BRACKEN OUTPUT PRODUCED: /shared/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/bracken/fastq_one_sample_bracken_out
+PROGRAM END TIME: 05-30-2023 15:15:43
+  Bracken complete.
+END: Tue May 30 17:15:43 CEST 2023

@@ -1,0 +1,22 @@
+Accnum is ERR6913278
+START: Wed May 31 11:46:39 CEST 2023
+ >> Checking for Valid Options...
+ >> Running Bracken 
+      >> python src/est_abundance.py -i /shared/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/kraken2/ERR6913278_fastq_full_kraken2_report -o /shared/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/bracken/ERR6913278_fastq_full_bracken_out -k /shared/projects/2314_medbioinfo/kraken2/arch_bact_vir_hum_protoz_fung/database50mers.kmer_distrib -l S -t 5
+PROGRAM START TIME: 05-31-2023 09:52:15
+BRACKEN SUMMARY (Kraken report: /shared/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/kraken2/ERR6913278_fastq_full_kraken2_report)
+    >>> Threshold: 5 
+    >>> Number of species in sample: 3673 
+	  >> Number of species with reads > threshold: 1020 
+	  >> Number of species with reads < threshold: 2653 
+    >>> Total reads in sample: 1357364
+	  >> Total reads kept at species level (reads > threshold): 567563
+	  >> Total reads discarded (species reads < threshold): 4504
+	  >> Reads distributed: 1274062
+	  >> Reads not distributed (eg. no species above threshold): 8029
+	  >> Unclassified reads: 75273
+BRACKEN OUTPUT PRODUCED: /shared/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/bracken/ERR6913278_fastq_full_bracken_out
+PROGRAM END TIME: 05-31-2023 09:52:15
+  Bracken complete.
+Writing /shared/projects/2314_medbioinfo/magnus/MedBioinfo/analyses/krona/text.ERR6913278_without_prefix.html...
+END: Wed May 31 11:52:16 CEST 2023
